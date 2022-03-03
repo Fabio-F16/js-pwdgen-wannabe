@@ -1,3 +1,5 @@
+alert('Sei pronto a generare la tua password?')
+
 const firstName = window.prompt('Qual è il tuo nome?')
 
 const lastName = window.prompt('Qual è il tuo cognome?')
